@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data artifacts
+data/processed/
+vectordb/
+eval/eval_results.csv
+
+# OS
+.DS_Store
+Thumbs.db
