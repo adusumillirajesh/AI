@@ -1,0 +1,13 @@
+jupyter
+notebook
+pandas
+numpy
+tqdm
+nltk
+regex
+sentence-transformers==2.7.0
+faiss-cpu
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
